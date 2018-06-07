@@ -8,8 +8,8 @@
 # Added Dark Offsets for IR/Vis
 #
 #
-DARKOFFSETVIS = 259
-DARKOFFSETIR = 253
+DARKOFFSETVIS = 0 # 259
+DARKOFFSETIR = 0 # 253
 
 
 
